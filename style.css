@@ -12,6 +12,16 @@ h1{font-size: 40px;
    letter-spacing: 0ex;
    position: relative;left: 20px;
 }
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;left: 20px
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;left: 20px
+}
 h5{font-size:25px ;
 font-weight: bold;
 position: relative;left: 20px;}
@@ -57,3 +67,16 @@ font-size: 20px;}
     font-weight: bold;
     
 }
+.experience{width: 80%;
+}
+.sametype{
+    box-shadow: 10px 10px 30px darkcyan;
+    padding: 10px 20px;
+    height: 50%;
+}
+#fullstack{
+    border-left: 10px solid rgb(3, 77, 77);
+}
+#learner{border-left: 10px solid rgb(3, 77, 77);
+}
+
